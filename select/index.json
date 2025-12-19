@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "インドア系ならトラックメイカー",
+  "base_artist": "しぐれうい",
+  "createdAt": "2025-12-19T22:44:41.204235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "Yunomi feat. nicamoq",
+      "has_synced": true,
+      "path": "select/01_インドア系ならトラックメイカー_Yunomi_feat._nicamoq.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー (feat. nicamoq)",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/02_インドア系ならトラックメイカー_(feat._nicamoq)_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "Yunomi & nicamoq",
+      "has_synced": true,
+      "path": "select/03_インドア系ならトラックメイカー_Yunomi_&_nicamoq.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "Yunomi & nicamoq",
+      "has_synced": true,
+      "path": "select/04_インドア系ならトラックメイカー_Yunomi_&_nicamoq.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/05_インドア系ならトラックメイカー_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー (cover)",
+      "artist": "Shigure, Ui",
+      "has_synced": true,
+      "path": "select/06_インドア系ならトラックメイカー_(cover)_Shigure,_Ui.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "Shigure, Ui",
+      "has_synced": true,
+      "path": "select/07_インドア系ならトラックメイカー_Shigure,_Ui.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー (Cover)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/08_インドア系ならトラックメイカー_(Cover)_しぐれうい.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/09_インドア系ならトラックメイカー_しぐれうい.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "Ui Shigure",
+      "has_synced": true,
+      "path": "select/10_インドア系ならトラックメイカー_Ui_Shigure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "KMNZ LIZ",
+      "has_synced": true,
+      "path": "select/11_インドア系ならトラックメイカー_KMNZ_LIZ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "インドア系ならトラックメイカー",
+      "artist": "Yunomi, nicamoq",
+      "has_synced": true,
+      "path": "select/12_インドア系ならトラックメイカー_Yunomi,_nicamoq.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インドア系ならトラックメイカー (Cover)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_インドア系ならトラックメイカー_(Cover)_しぐれうい.txt"
+    }
+  ]
+}
